@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chenaultt.github.io/ledgerlane/sitemap.xml
